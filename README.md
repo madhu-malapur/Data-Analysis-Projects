@@ -75,7 +75,40 @@ You can download the dataset used for this project here:
 
 ## Dashboard
 
-![View Dashboard](https://github.com/madhu-malapur/assets/raw/main/zomatoss.png)
+![View Dashboard](https://github.com/madhu-malapur/Data-Analysis-Projects/blob/main/zomato%20ss.png)
+
+Sure! Here's a **short and clean version** of the **Project Insights** you can directly use in your GitHub `README.md`:
+
+---
+
+## 🔥 Project Insights
+
+- Built an interactive **Zomato Analysis Dashboard** using **Power BI**.
+- Analyzed **8652 restaurants** across different cities and countries.
+- Key Metrics: **Votes (1M)**, **Ratings (23.97K)**, **Average Cost (5M USD)**.
+- Created a **Calendar Table** for year, month, and financial reporting.
+- Performed **currency conversion** to standardize costs into **USD**.
+- Tracked trends in:
+  - **Restaurant openings** (by year, quarter, month)
+  - **Ratings distribution** and **top-rated restaurants**
+  - **Table booking** and **online delivery** percentages
+  - **Popular cuisines** like North Indian, Chinese, Fast Food
+- Built KPIs and dynamic charts for easy insights.
+- Focused on clear storytelling through data visualization.
+- 
+
+## 🏁 Conclusion
+
+The Zomato Analysis Dashboard provides a clear, data-driven view of restaurant trends, customer preferences, and market distribution.  
+It helps identify growth opportunities, popular cuisines, and key service features like table booking and online delivery, offering valuable insights for strategic decision-making.
+
+
+
+
+
+
+
+
 
 
 
