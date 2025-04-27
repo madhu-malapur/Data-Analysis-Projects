@@ -102,6 +102,12 @@ Sure! Here's a **short and clean version** of the **Project Insights** you can d
 The Zomato Analysis Dashboard provides a clear, data-driven view of restaurant trends, customer preferences, and market distribution.  
 It helps identify growth opportunities, popular cuisines, and key service features like table booking and online delivery, offering valuable insights for strategic decision-making.
 
+## 📥 Download the Dashboard
+
+You can download the full Power BI dashboard file here:  
+👉 [Download Zomato Dashboard (.pbix)](https://github.com/madhu-malapur/Data-Analysis-Projects/raw/main/zomato.pbix)
+
+
 
 
 
